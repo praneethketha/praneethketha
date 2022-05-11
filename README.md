@@ -29,6 +29,6 @@ Interested in entire full stack spectrum and ambitious to work with great people
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praneethketha&show_icons=true&locale=en&layout=compact" alt="praneethketha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praneethketha&show_icons=true&locale=en" alt="praneethketha" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praneethketha&show_icons=true&locale=en" alt="praneethketha" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praneethketha&" alt="praneethketha" /></p>

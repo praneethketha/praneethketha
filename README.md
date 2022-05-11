@@ -5,6 +5,3 @@ I'm Praneeth from India, and I am a fresher and self thought Web Developer. My p
 Later I moved towards Backend part of the application as well. I have added Node, Express and MongoDB to my skillset, with the help of the serveral youtube channels and Udemy courses out there.
 
 Interested in entire full stack spectrum and ambitious to work with great people.
-
-#My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praneethketha)](https://github.com/anuraghazra/github-readme-stats)

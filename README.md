@@ -1,16 +1,12 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Praneeth Ketha</h1>
 # Fresher | Web Enthusiast | FullStack Enthusiast 
+<h3 align="center">A passionate web developer from India</h3>
 
 I'm Praneeth from India, and I am a fresher and self thought Web Developer. My primary area of my interest is undoubtedly Web Development. My passion for code is began with amazing web designs in internet. I started my web journey by learning HTML5 and CSS3. I expanded my self by learning engaging skills like ReactJs and Redux. 
 
 Later I moved towards Backend part of the application as well. I have added Node, Express and MongoDB to my skillset, with the help of the serveral youtube channels and Udemy courses out there.
 
 Interested in entire full stack spectrum and ambitious to work with great people.
-
-<h1 align="center">Hi 👋, I'm Praneeth Ketha</h1>
-<h3 align="center">A passionate web developer from India</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praneethketha" alt="praneethketha" /></a> </p>
 
 - 🔭 I’m currently working on **a internship**

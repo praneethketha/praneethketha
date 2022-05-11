@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praneeth Ketha</h1>
-# Fresher | Web Enthusiast | FullStack Enthusiast 
+<h2> Fresher | Web Enthusiast | FullStack Enthusiast </h2>
 <h3 align="center">A passionate web developer from India</h3>
 
 I'm Praneeth from India, and I am a fresher and self thought Web Developer. My primary area of my interest is undoubtedly Web Development. My passion for code is began with amazing web designs in internet. I started my web journey by learning HTML5 and CSS3. I expanded my self by learning engaging skills like ReactJs and Redux. 
